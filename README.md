@@ -12,7 +12,7 @@ https://public.flourish.studio/story/1961786/
 ## Fitxers
 
 `dades/accidents_transit.csv` - Conté el registre d'accidents greus de trànsit a Catalunya durant el període 2010-2021.  
-`dades/poblacio_catalunya.csv` - Conté la població catalana en comarques i províncies.  
+`dades/poblacio_catalunya.csv` - Conté dades dels habitants de Catalunya en comarques i províncies.  
 `dades/dataset_viz.xlsx` - Conté l'arxiu final on s'han transformat i creuat les dades d'accidents i població.  
 `mapes/divisions-administratives-provincies.json` - Conté el mapa polític en format GeoJSON de les províncies de Catalunya.  
 `mapes/divisions-administratives-comarques.json` - Conté el  mapa polític en format GeoJSON de les comarques de Catalunya.
