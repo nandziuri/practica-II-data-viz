@@ -6,7 +6,8 @@ Oriol Hernández Fuster
 
 Aquest repositori està creat per realitzar la Pràctica II de l'assignatura de Visualització de Dades del màster en Ciència de Dades de la UOC.
 
-S'ha creat un dataset amb les observacions diàries de variables meteorològiques a la ciutat de Barcelona durant el període del 01/01/2023 fins a 21/04/2023.
+S'ha creat un arxiu XLSX amb dades sobre els accidents de trànsit a Catalunya per carregar i visualitzar posteriorment a Flourish 
+https://public.flourish.studio/story/1961786/
 
 ## Fitxers
 
